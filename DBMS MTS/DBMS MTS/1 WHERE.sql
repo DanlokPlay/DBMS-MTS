@@ -1,0 +1,4 @@
+USE MTS;
+GO
+SELECT * FROM Client
+WHERE balance > 1500;

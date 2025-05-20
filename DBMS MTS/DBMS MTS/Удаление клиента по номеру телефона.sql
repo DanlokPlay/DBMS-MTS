@@ -1,0 +1,4 @@
+USE MTS;
+GO
+DELETE FROM Client
+WHERE phone_number = N'+79001234567';

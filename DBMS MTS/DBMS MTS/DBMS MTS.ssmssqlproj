@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DBMS MTS">
+  <Items>
+    <LogicalFolder Name="Соединения" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-S37T5RH:DESKTOP-S37T5RH\Danlok Play">
+          <Created>2025-03-18T21:44:45.1265131+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-S37T5RH</Server>
+          <UserName />
+          <Authentication>Проверка подлинности Windows</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Среда Microsoft SQL Server Management Studio - запрос</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Запросы" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="1 WHERE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 WHERE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10 UNION.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10 UNION.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2 ORDER BY.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2 ORDER BY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3 Функция агрегации.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3 Функция агрегации.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4 GROUP BY + HAVING.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4 GROUP BY + HAVING.sql</FullPath>
+        </FileNode>
+        <FileNode Name="5 CAST.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>5 CAST.sql</FullPath>
+        </FileNode>
+        <FileNode Name="6 CASE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>6 CASE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="7 EXISTS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>7 EXISTS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="8 Подзапрос.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>8 Подзапрос.sql</FullPath>
+        </FileNode>
+        <FileNode Name="9 JOIN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>9 JOIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Добавление звонка.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Добавление звонка.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Добавление клиента.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Добавление клиента.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Добавление тарифа.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Добавление тарифа.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Заполнение Звонков и Детализации.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Заполнение Звонков и Детализации.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Заполнение пользователей.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Заполнение пользователей.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Заполнение тарифов.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Заполнение тарифов.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Запрос 1-ой структуры.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Запрос 1-ой структуры.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Запрос 2-ой структуры.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Запрос 2-ой структуры.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Изменение баланса.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Изменение баланса.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Изменение стоимости перехода на тариф.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Изменение стоимости перехода на тариф.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Изменение тарифа.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Изменение тарифа.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Проверка заполнения всех таблиц.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Проверка заполнения всех таблиц.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Создание БД.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Создание БД.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Создание структуры.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Создание структуры.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Удаление всех звонков клиента.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Удаление всех звонков клиента.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Удаление клиента по номеру телефона.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Удаление клиента по номеру телефона.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Удаление тарифа.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S37T5RH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S37T5RH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Удаление тарифа.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Разное" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

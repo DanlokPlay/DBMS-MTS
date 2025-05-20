@@ -1,0 +1,12 @@
+C:\Users\Danlok Play\source\repos\MTS\obj\Debug\MTS.csproj.AssemblyReference.cache
+C:\Users\Danlok Play\source\repos\MTS\obj\Debug\MTS.MTS.resources
+C:\Users\Danlok Play\source\repos\MTS\obj\Debug\MTS.Properties.Resources.resources
+C:\Users\Danlok Play\source\repos\MTS\obj\Debug\MTS.csproj.GenerateResource.cache
+C:\Users\Danlok Play\source\repos\MTS\obj\Debug\MTS.csproj.CoreCompileInputs.cache
+C:\Users\Danlok Play\source\repos\MTS\bin\Debug\MTS.exe.config
+C:\Users\Danlok Play\source\repos\MTS\bin\Debug\MTS.exe
+C:\Users\Danlok Play\source\repos\MTS\bin\Debug\MTS.pdb
+C:\Users\Danlok Play\source\repos\MTS\obj\Debug\MTS.exe
+C:\Users\Danlok Play\source\repos\MTS\obj\Debug\MTS.pdb
+C:\Users\Danlok Play\source\repos\MTS\obj\Debug\MTS.AddClientForm.resources
+C:\Users\Danlok Play\source\repos\MTS\obj\Debug\MTS.CallDetailsForm.resources
