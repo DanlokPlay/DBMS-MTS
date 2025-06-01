@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\",
+  "WorkspaceRootPath": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|c:\\users\\danlok play\\source\\repos\\mts\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|c:\\users\\danlok play\\source\\repos\\mts\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|c:\\users\\danlok play\\source\\repos\\mts\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|c:\\users\\danlok play\\source\\repos\\mts\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|c:\\users\\danlok play\\source\\repos\\mts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|c:\\users\\danlok play\\source\\repos\\mts\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|c:\\users\\danlok play\\source\\repos\\mts\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|c:\\users\\danlok play\\source\\repos\\mts\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|c:\\users\\danlok play\\source\\repos\\mts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|c:\\users\\danlok play\\source\\repos\\mts\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|d:\\\u0438\u0433\u044D\u0443\\\u0441\u0443\u0431\u0434\\dbms-mts\\mts\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AAA612E-6745-4F0C-B5CF-D040E86EA53D}|MTS.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,53 +50,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Form3.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form3.Designer.cs",
+              "DocumentMoniker": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form3.Designer.cs",
               "RelativeDocumentMoniker": "Form3.Designer.cs",
-              "ToolTip": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form3.Designer.cs",
+              "ToolTip": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form3.Designer.cs",
               "RelativeToolTip": "Form3.Designer.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAtwEwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T11:07:14.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T11:07:14.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form3.cs",
+              "DocumentMoniker": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form3.cs",
+              "ToolTip": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form3.cs",
               "RelativeToolTip": "Form3.cs",
               "ViewState": "AQIAAKIAAAAAAAAAAAAIwMMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T11:01:02.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T11:01:02.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:00:27.001Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form3.cs",
-              "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T11:00:27.001Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form2.cs",
+              "DocumentMoniker": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T10:39:15.42Z",
@@ -104,50 +100,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form2.cs",
+              "DocumentMoniker": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form2.cs",
+              "ToolTip": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AQIAAIwAAAAAAAAAAAAmwJwAAAAJAAAA",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAmwJwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T10:12:15.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Form2.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form2.Designer.cs",
+              "DocumentMoniker": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Form2.Designer.cs",
-              "ToolTip": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form2.Designer.cs",
+              "ToolTip": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form2.Designer.cs",
               "RelativeToolTip": "Form2.Designer.cs",
               "ViewState": "AQIAAEwAAAAAAAAAAAAAAH4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T10:38:29.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T10:38:29.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-20T10:08:43.967Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-20T10:08:43.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form1.Designer.cs",
+              "ToolTip": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,11 +150,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form1.cs",
+              "DocumentMoniker": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T09:45:25.022Z",
@@ -168,13 +162,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form1.cs",
+              "DocumentMoniker": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Danlok Play\\source\\repos\\MTS\\Form1.cs",
+              "ToolTip": "D:\\\u0418\u0413\u042D\u0423\\\u0421\u0423\u0411\u0414\\DBMS-MTS\\MTS\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAwwFUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T09:46:22.996Z",
               "EditorCaption": ""
